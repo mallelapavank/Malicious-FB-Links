@@ -1,2 +1,2 @@
 -- Malicious FB Links
----- Python script to detect malicious facebook links using machine learning
+---- Python script to detect malicious facebook links using scikit learning
